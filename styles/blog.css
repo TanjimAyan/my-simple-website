@@ -1,0 +1,12 @@
+div{
+
+    background-color: aqua; font-size: 25px; 
+    font-style: italic; text-decoration: dotted; text-shadow: 5px;
+    /* background-image: url("/flowers/red\ roses.webp");s */
+    width: 2000px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px 20px;
+    border: 50px
+    padding 50px;
+}
